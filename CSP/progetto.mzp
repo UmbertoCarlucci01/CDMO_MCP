@@ -1,0 +1,18 @@
+{
+    "openFiles": [
+        "model.mzn",
+        "data1.dzn",
+        "dom_deg_min.mzn",
+        "dom_deg_rand.mzn"
+    ],
+    "openTab": 3,
+    "projectFiles": [
+        "data1.dzn",
+        "dom_deg_min.mzn",
+        "dom_deg_rand.mzn",
+        "model.mzn"
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.3.0",
+    "version": 106
+}
