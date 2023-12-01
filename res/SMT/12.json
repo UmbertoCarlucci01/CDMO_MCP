@@ -1,0 +1,14 @@
+{
+    "FixedSMT": {
+        "time": 300,
+        "optimal": false,
+        "obj": 0,
+        "sol": []
+    },
+    "NaiveSMT": {
+        "time": 300,
+        "optimal": false,
+        "obj": 0,
+        "sol": []
+    }
+}
